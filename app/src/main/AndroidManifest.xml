@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.com.szw.lib.myframework">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application >
+        <activity android:name=".utils.preview.PreviewOnlyActivity"/>
+        <activity android:name=".view.MyWebActivity"/>
+    </application>
+</manifest>
