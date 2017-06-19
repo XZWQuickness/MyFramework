@@ -81,9 +81,9 @@ ext {
             pickerview                    : 'com.bigkoo:pickerview:latest.release',
 
             // ------------- 网络请求 -------------
-            okhttp                        : 'com.squareup.okhttp3:2.1.4',
+            okhttp                        : 'com.squareup.okhttp3:okhttp:latest.release',
             retrofit                      : 'com.squareup.retrofit2:retrofit:latest.release',
-            okgo                          : 'com.lzy.net:okgo:latest.release',
+            okgo                          : 'com.lzy.net:okgo:1.2.4',
 
             // ------------- 图片加载 -------------
             ImagePicker                  : 'com.lzy.widget:imagepicker:latest.release',
